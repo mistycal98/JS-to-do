@@ -6,7 +6,7 @@ A Simple Time Application using HTML Materialize CSS and Vanilla Javascript
 
 **styles/style.css** - CSS rules for Markup
 
-**src/app.js** - Main JavaScript for Stopwatch functionality
+**src/app.js** - Main JavaScript for feature functionality
 
 **img** - Required Resources
 
